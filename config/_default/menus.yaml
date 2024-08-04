@@ -6,14 +6,14 @@ main:
     url: /
     weight: 10
   - name: Post
-    url: blog/
-    weight: 30
+    url: post/
+    weight: 20
   - name: Activities
     url: activities/
     weight: 20
   - name: Topics
     url: tags/
-    weight: 20
+    weight: 30
   - name: Contact
     url: contact/
-    weight: 30
+    weight: 50
