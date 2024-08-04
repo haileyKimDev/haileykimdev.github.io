@@ -10,10 +10,10 @@ main:
     weight: 20
   - name: Activities
     url: activities/
-    weight: 20
+    weight: 30
   - name: Topics
     url: tags/
-    weight: 30
+    weight: 40
   - name: Contact
     url: contact/
-    weight: 50
+    weight: 60
