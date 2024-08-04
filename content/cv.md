@@ -2,13 +2,6 @@
 title: 'CV'
 date: 2024-8-05
 type: landing
-
-design:
-  spacing: '5rem'
-
-# Note: `username` refers to the user's folder name in `content/authors/`
-
-# Page sections
 sections:
   - block: resume-biography
     content:
