@@ -5,8 +5,8 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Post
-    url: post/
+  - name: Blog
+    url: blog/
     weight: 20
   - name: Activities
     url: activities/
