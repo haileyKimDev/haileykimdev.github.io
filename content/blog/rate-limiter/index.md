@@ -1,19 +1,21 @@
 ---
 title: Rate Limiter with Java : Efficient API Request Management
-summary: Rate limiters protect systems by ensuring fair resource distribution and defending against attacks, commonly used in APIs, web apps, and microservices.
+summary: How to Implement a Rate Limiter
 date: 2024-07-07
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Rate Limiter**](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*JUVzkW6Y2XPJV_u1uGYxTw.png)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 
 authors:
   - admin
+  - Ted
 
 tags:
   - Rate Limiter
   - System Design
+
 ---
 
 ## Post
