@@ -12,7 +12,7 @@ sections:
         padding: [0, 0, 0, 0]
       biography:
         style: 'text-align: justify; font-size: 0.8em;'
-  - block: resume-work
+  - block: resume-Experience
     content:
       username: admin
     design:
