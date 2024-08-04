@@ -15,5 +15,5 @@ If you'd like to exchange ideas or learn more about my background, I’d love to
 
 **GitHub:** [github.com/haileyKimDev](https://github.com/haileyKimDev)
 
-**Medium:** [gmedium.com/@haileykim2014](https://medium.com/@haileykim2014)
+**Medium:** [medium.com/@haileykim2014](https://medium.com/@haileykim2014)
 
