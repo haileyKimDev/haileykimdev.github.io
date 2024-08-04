@@ -49,12 +49,12 @@ locale:
   time_format: '3:04 PM'
 
 # Site features
-features:
-  math:
-    enable: false
-  privacy_pack:
-    enable: false
-  repository:
-    url: 'https://github.com/HugoBlox/hugo-blox-builder/'
-    content_dir: starters/blog/content
-    branch: main
+# features:
+#   math:
+#     enable: false
+#   privacy_pack:
+#     enable: false
+#   repository:
+#     url: 'https://github.com/HugoBlox/hugo-blox-builder/'
+#     content_dir: starters/blog/content
+#     branch: main
