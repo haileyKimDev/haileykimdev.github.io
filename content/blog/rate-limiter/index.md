@@ -1,5 +1,5 @@
 ---
-title: Rate Limiter with Java : Efficient API Request Management
+title: Rate Limiter with Java - Efficient API Request Management
 summary: How to Implement a Rate Limiter
 date: 2024-07-07
 
@@ -20,5 +20,4 @@ tags:
 
 ## Post
 
-Check out my latest post on Medium: [Rate Limiter with Java : Efficient API Request Management](https://medium.com/@haileykim2014/rate-limiter-with-java-and-spring-988df73fd4c2)
-
+👉 [**Rate Limiter with Java**](https://medium.com/@haileykim2014/rate-limiter-with-java-and-spring-988df73fd4c2)
