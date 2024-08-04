@@ -160,6 +160,6 @@ skills:
 
 ---
 
-## About Me
+<!-- ## About Me -->
 
 Passionate Software Engineer with 3 years of working experience in cloud computing and data management within the Online Automotive E-commerce industry. I focus on creating a better experience by optimizing cloud infrastructure using Java, Spring, and AWS. Proven track record of reducing operational costs and enhancing system efficiency.
