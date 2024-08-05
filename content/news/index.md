@@ -1,4 +1,4 @@
 ---
-title: Activities
+title: News
 view: article-grid
 ---
