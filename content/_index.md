@@ -21,13 +21,13 @@ sections:
       spacing:
         padding: ['3rem', 0, '6rem', 0]
   - block: collection
-    id: activities
+    id: news
     content:
       title: Recent Activities
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
-      page_type: activities
+      page_type: news
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
