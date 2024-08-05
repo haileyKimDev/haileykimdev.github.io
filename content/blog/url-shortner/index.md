@@ -1,5 +1,5 @@
 ---
-title: How URL Shorteners Work: Behind the Scenes of Link Shortening
+title: How URL Shorteners Work - Behind the Scenes of Link Shortening
 summary: Dive into how URL shorteners work and their benefits
 date: 2024-07-28
 
