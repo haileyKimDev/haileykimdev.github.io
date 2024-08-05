@@ -14,6 +14,7 @@ sections:
         style: 'text-align: justify; font-size: 0.8em;'
   - block: collection
     content:
+      title: 'Blog'
       filters:
         folders:
           - blog
@@ -22,6 +23,7 @@ sections:
         padding: ['3rem', 0, '6rem', 0]
   - block: collection
     content:
+      title: 'Latest Activities'
       filters:
         folders:
           - activities
