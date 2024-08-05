@@ -21,7 +21,7 @@ sections:
       spacing:
         padding: ['3rem', 0, '6rem', 0]
   - block: collection
-    id: news
+    id: activities
     content:
       title: Recent Activities
       subtitle: ''
