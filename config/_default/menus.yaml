@@ -8,8 +8,8 @@ main:
   - name: Blog
     url: blog/
     weight: 11
-  - name: News
-    url: /news
+  - name: Latest Activities
+    url: /#news
     weight: 12
   - name: Topics
     url: tags/

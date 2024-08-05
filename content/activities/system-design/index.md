@@ -1,6 +1,6 @@
 ---
-title: Rate Limiter with Java - Efficient API Request Management
-summary: How to Implement a Rate Limiter
+title: System Design Interview 
+summary: System Design Interview 
 date: 2024-07-07
 
 # Featured image
@@ -10,10 +10,10 @@ image:
 
 authors:
   - admin
-  - Ted
 
 tags:
-  - Rate Limiter
+  - Group Study
   - System Design
 
 ---
+👉 [System Design Interview 

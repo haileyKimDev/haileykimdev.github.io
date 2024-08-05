@@ -10,7 +10,6 @@ image:
 
 authors:
   - admin
-  - Ted
 
 tags:
   - Rate Limiter
@@ -20,4 +19,4 @@ tags:
 
 ## Post
 
-👉 [**Rate Limiter with Java**](https://medium.com/@haileykim2014/rate-limiter-with-java-and-spring-988df73fd4c2)
+👉 [**Rate Limiter with Java - Efficient API Request Management**](https://medium.com/@haileykim2014/rate-limiter-with-java-and-spring-988df73fd4c2)
