@@ -7,10 +7,10 @@ main:
     weight: 10
   - name: Blog
     url: blog/
-    weight: 20
+    weight: 11
   - name: News
-    url: /#news
-    weight: 23
+    url: /news
+    weight: 12
   - name: Topics
     url: tags/
     weight: 40
