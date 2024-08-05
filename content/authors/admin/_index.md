@@ -37,6 +37,8 @@ profiles:
     url: https://github.com/haileyKimDev
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/moviekim
+  - icon: custom/medium
+    url: https://medium.com/@haileykim2014
 
 interests:
   - Scalable Data Platforms
