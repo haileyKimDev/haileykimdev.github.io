@@ -20,9 +20,12 @@ sections:
     design:
       spacing:
         padding: ['3rem', 0, '6rem', 0]
-  - block: markdown
+  - block: collection
     content:
-      title: 'News'
-      subtitle: ''
-      text:
+      filters:
+        folders:
+          - activities
+    design:
+      spacing:
+        padding: ['3rem', 0, '6rem', 0]
 ---

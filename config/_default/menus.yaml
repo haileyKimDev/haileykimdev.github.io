@@ -9,7 +9,7 @@ main:
     url: blog/
     weight: 11
   - name: Latest Activities
-    url: /#news
+    url: /activities
     weight: 12
   - name: Topics
     url: tags/
