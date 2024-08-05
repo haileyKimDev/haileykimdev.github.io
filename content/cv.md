@@ -3,26 +3,27 @@ title: 'CV'
 date: 2024-8-05
 type: landing
 sections:
-  - block: resume-biography
+  - block: biography
     content:
-      # The user's folder name in `content/authors/`
       username: admin
       # Show a call-to-action button under your biography? (optional)
-      # To link to a file, upload it to your `static/uploads/` folder
       button:
         text: Download Résumé
         url: uploads/resume.pdf
     design:
       banner:
-        # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
-        filename: ''
+        # Upload your cover image to the `assets/media/` folder and reference it here
+        filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
       biography:
-        # Customize the CSS style of your biography text (optional)
-        style: ''
-  - block: resume-experience
+        # Customize the style of your biography text
+        style: 'text-align: justify; font-size: 0.8em;'
+  - block: experience
     content:
       username: admin
     design:
-      view: citation
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
 
 ---
