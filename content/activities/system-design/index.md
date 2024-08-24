@@ -1,12 +1,12 @@
 ---
 title: 📚 System Design Study Completed 📚
-summary: Finished reading Alex Xu's book, 'System Design Interview.'
+summary: Finished reading Alex Xu's book, 'System Design Interview'
 date: 2024-08-24
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'System Design Interview series [**Unsplash**](https://unsplash.com)'
 
 authors:
   - Hailey Kim
