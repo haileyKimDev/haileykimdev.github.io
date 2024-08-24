@@ -9,7 +9,7 @@ image:
   caption: 'URL Shortener [**Unsplash**](https://unsplash.com)'
 
 authors:
-  - admin
+  - Hailey Kim
 
 tags:
   - URL Shortener
