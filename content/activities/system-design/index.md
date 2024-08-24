@@ -31,3 +31,6 @@ I am also excited about our upcoming meeting with the translator, hashtag#Byungj
 
 I am really happy to have read this book with such wonderful members.
 Thanks to the great members and leader, I was able to do meaningful and valuable studies. I sincerely thank all the study members! 
+
+
+👉 [**📚 System Design Study Completed 📚**](https://www.linkedin.com/posts/moviekim_womenits-insight-byungjun-activity-7233068655066955777-SrFD?utm_source=share&utm_medium=member_desktop)
