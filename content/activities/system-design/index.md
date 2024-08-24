@@ -1,7 +1,7 @@
 ---
 title: System Design Interview 
 summary: System Design Interview 
-date: 2024-07-07
+date: 2024-08-24
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -17,6 +17,7 @@ tags:
 
 ---
 📚 System Design Study Completed 📚
+
 I have successfully finished Alex Xu's book, 'System Design Interview,' study hosted by hashtag#WomenITs X Wooahan. 
 
 The past two months have been very fulfilling and rewarding.
